@@ -1,0 +1,8 @@
+https://www.quantopian.com/posts/quick-and-dirty-momentum-strategy?c=1
+https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code
+http://quantpedia.com/screener/Details/118
+http://docs.lhpedersen.com/TSMOM_Slides.pdf
+https://www.edhec.edu/sites/www.edhec-portail.pprod.net/files/publications/pdf/edhec-working-paper-improving-time-series-momentum-strategies_1411733964603-pdfjpg
+https://www.quantstart.com/articles/Backtesting-a-Moving-Average-Crossover-in-Python-with-pandas
+https://s3.amazonaws.com/quantstart/media/powerpoint/an-introduction-to-backtesting.pdf
+http://www.quantsportal.com/momentum-strategies/

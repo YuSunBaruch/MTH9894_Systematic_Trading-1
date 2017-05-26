@@ -8,6 +8,8 @@
 * With paper: Time Series Momentum by Tobias J. Moskowitz, Yao Hua Ooi, Lasse Heje Pedersen
 * [Time Series Momentum paper link](http://docs.lhpedersen.com/TimeSeriesMomentum.pdf)
 
+### Data
+* Cleaned Data used for this project could also been download from Github [repo](https://github.com/hongchaopan/MTH9894_Systematic_Trading/tree/master/Final_Project_Time_Series_Momentum)
 
 ### Descriptions of folders
 Folder Name | Descriptions
